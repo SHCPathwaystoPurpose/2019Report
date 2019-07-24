@@ -29,6 +29,7 @@ function drawchartEngagementParticipation() {
         var options = {
           curveType: 'function',
           legend: { position: 'bottom' },
+          pointSize: 10,
           colors: ['#f9a11b','#039691', '#ef4b24'],
          
         };
